@@ -1,0 +1,7 @@
+{
+  "name": "3DLEO",
+  "website": "https://link3.to/cyberleo",
+  "description": "I operate on some data",
+  "logo": "https://i.ibb.co/qd2c0J4/eigenlogo.png",
+  "twitter": "x.com/3dleo_"
+}
